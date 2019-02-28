@@ -8,7 +8,7 @@ Containing files from the following practicals:
 - Practical 2 - Scripts
 - Practical 3 - AddIns
 - Practical 4 - GUI
-- Practical 5 - SQLite
+- Practical 5 - SQLite # Uploaded
 - Practical 6 - Pandas/Bokeh
 - Practical 7 - NLTK
 - Practical 8 - Cellular Automation
