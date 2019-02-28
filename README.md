@@ -9,7 +9,8 @@ Containing files from the following practicals:
 - Practical 3 - AddIns
 - Practical 4 - GUI
 - Practical 5 - SQLite 
-- Practical 6 - Pandas/Bokeh
-- Practical 7 - NLTK
-- Practical 8 - Cellular Automation
-- Practical 9 - Multiprocessing
+- Practical 6 - XML
+- Practical 7 - Pandas/Bokeh
+- Practical 8 - NLTK
+- Practical 9 - Cellular Automation
+- Practical 10 - Multiprocessing
