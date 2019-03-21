@@ -12,5 +12,5 @@ Containing files from the following practicals:
 - Practical 6 - XML
 - Practical 7 - Pandas/Bokeh
 - Practical 8 - NLTK
-- Practical 9 - Cellular Automation
+- Practical 9 - Cellular Automaton
 - Practical 10 - Multiprocessing
